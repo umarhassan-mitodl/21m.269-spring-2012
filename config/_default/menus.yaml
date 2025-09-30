@@ -1,0 +1,24 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 63c5cb0c-f90f-7199-0522-1a99178e67cf
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 3807e520-fab5-0938-3a1e-d3ce2fb8a836
+  name: More on Grading Scale and Course Policies
+  pageRef: /pages/syllabus/more-on-grading-scale-and-course-policies
+  parent: 63c5cb0c-f90f-7199-0522-1a99178e67cf
+  weight: 20
+- identifier: 64897f6f-e8c9-c5ad-31c1-8b04a2b18491
+  name: Readings & Listening
+  pageRef: /pages/readings-listening
+  weight: 30
+- identifier: bee8ef0a-23b6-359b-9791-d3c3f59c2018
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: 7530842c-e0a0-043c-107f-4e25ef92a9fc
+  name: music21 Tools
+  pageRef: /pages/music21-tools
+  weight: 50
